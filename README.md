@@ -14,4 +14,4 @@ This project is meant to create graphically beautiful fractals
 * make moves with the help of mouse in julia rotation mode;
 * to exit from program use ```Esc```.
 
-### For more information, reed project_task.pdf
+### For more information, read project_task.pdf
